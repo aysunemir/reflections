@@ -1,0 +1,3 @@
+1.How is the staging area different from the working directory and the repository? What value do you think it offers?
+-Files are modified in working directory. Snapshots of the modified files are added to the staging area. And when do a commit the files that are staging area are took and stored permanently in the repository.
+
