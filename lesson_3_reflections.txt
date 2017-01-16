@@ -1,2 +1,2 @@
 1.When would you want to create a remote repository rather than keeping all your work local?
--I can lose my works when keeping them local, and also this way I can share my work with other users that I work with.
+-I can reach my works from any computer when I use a remote repository, and also this way I can share my work with other users that I work with.
